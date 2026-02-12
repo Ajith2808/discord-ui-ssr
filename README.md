@@ -1,6 +1,6 @@
 # Discord-Style SSR Web Application
 
-A professional Discord-inspired web application built with Next.js 15 App Router, demonstrating enterprise-grade architecture patterns for senior frontend roles in insurance technology.
+A professional Discord-inspired web application built with Next.js 15 App Router, demonstrating enterprise-grade architecture patterns for frontend roles in insurance technology.
 
 ## Architecture Overview
 
